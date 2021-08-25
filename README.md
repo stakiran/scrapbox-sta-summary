@@ -1,0 +1,1 @@
+# scrapbox-sta-summary
