@@ -1,3 +1,5 @@
+- 2021/09/01(水) 20:11:07 [✅SpecialPagesに指定タグ + Date createdを追加する](https://scrapbox.io/sta/✅SpecialPagesに指定タグ + Date createdを追加する)
+- 2021/09/01(水) 18:26:10 [異文化理解力 ― 相手と自分の真意がわかる ビジネスパーソン必須の教養](https://scrapbox.io/sta/異文化理解力 ― 相手と自分の真意がわかる ビジネスパーソン必須の教養)
 - 2021/08/14(土) 19:12:08 [GTDerのためのScrapbox解析ツール](https://scrapbox.io/sta/GTDerのためのScrapbox解析ツール)
 - 2021/08/08(日) 10:12:21 [cleir](https://scrapbox.io/sta/cleir)
 - 2021/07/30(金) 17:44:03 [よく使う名詞を素早く入力するツール](https://scrapbox.io/sta/よく使う名詞を素早く入力するツール)

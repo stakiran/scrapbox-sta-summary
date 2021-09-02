@@ -15,6 +15,6 @@
     - [作成日時順_読んだラノベ](index_date_created_読んだラノベ.md)
     - [作成日時順_読んだアニメ](index_date_created_読んだアニメ.md)
 
-All 7457 pages.
+All 7688 pages.
 
-Generated at 2021/09/02(木) 16:25:20, by [scbjson2ghpages](https://github.com/stakiran/scbjson2ghpages) from [scrapbox/sta](https://scrapbox.io/sta/)
+Generated at 2021/09/02(木) 16:26:13, by [scbjson2ghpages](https://github.com/stakiran/scbjson2ghpages) from [scrapbox/sta](https://scrapbox.io/sta/)
