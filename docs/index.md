@@ -6,6 +6,7 @@
     - [被リンク数順](index_mostlinked.md)
     - [リンク数順](index_mostlinking.md)
     - [作成日時順](index_date_created.md)
+    - [更新近傍順](index_date_diff.md)
     - [作成日時順_大企業病](index_date_created_大企業病.md)
     - [作成日時順_創作ネタ](index_date_created_創作ネタ.md)
     - [作成日時順_開発ネタ](index_date_created_開発ネタ.md)
@@ -16,4 +17,4 @@
 
 All 7457 pages.
 
-Generated at 2021/09/01(水) 20:16:43, by [scbjson2ghpages](https://github.com/stakiran/scbjson2ghpages) from [scrapbox/sta](https://scrapbox.io/sta/)
+Generated at 2021/09/02(木) 16:25:20, by [scbjson2ghpages](https://github.com/stakiran/scbjson2ghpages) from [scrapbox/sta](https://scrapbox.io/sta/)
