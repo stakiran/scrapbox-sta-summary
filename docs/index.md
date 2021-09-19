@@ -15,7 +15,8 @@
     - [作成日時順_読んだマンガ](index_date_created_読んだマンガ.md)
     - [作成日時順_読んだラノベ](index_date_created_読んだラノベ.md)
     - [作成日時順_読んだアニメ](index_date_created_読んだアニメ.md)
+    - [作成日時順_吉良野すた](index_date_created_吉良野すた.md)
 
 All 8070 pages.
 
-Generated at 2021/09/18(土) 13:58:37, by [scbjson2ghpages](https://github.com/stakiran/scbjson2ghpages) from [scrapbox/sta](https://scrapbox.io/sta/)
+Generated at 2021/09/20(月) 08:33:03, by [scbjson2ghpages](https://github.com/stakiran/scbjson2ghpages) from [scrapbox/sta](https://scrapbox.io/sta/)
