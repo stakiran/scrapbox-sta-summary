@@ -1,3 +1,4 @@
+- 2021/10/15(金) 18:03:45 [着想は減点法的である](https://scrapbox.io/sta/着想は減点法的である)
 - 2021/09/20(月) 08:29:14 [こういう着想が生まれやすいからScrapboxはやめられねえ](https://scrapbox.io/sta/こういう着想が生まれやすいからScrapboxはやめられねえ)
 - 2021/09/19(日) 11:28:25 [Scrapboxはな、毒なんだよ](https://scrapbox.io/sta/Scrapboxはな、毒なんだよ)
 - 2021/09/19(日) 11:19:32 [執念でダシにする](https://scrapbox.io/sta/執念でダシにする)
