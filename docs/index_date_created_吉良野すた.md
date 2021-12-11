@@ -1,3 +1,4 @@
+- 2021/11/29(月) 18:00:23 [Fine Communication(きめの細かいコミュニケーション)](https://scrapbox.io/sta/Fine Communication(きめの細かいコミュニケーション))
 - 2021/10/15(金) 18:03:45 [着想は減点法的である](https://scrapbox.io/sta/着想は減点法的である)
 - 2021/09/20(月) 08:29:14 [こういう着想が生まれやすいからScrapboxはやめられねえ](https://scrapbox.io/sta/こういう着想が生まれやすいからScrapboxはやめられねえ)
 - 2021/09/19(日) 11:28:25 [Scrapboxはな、毒なんだよ](https://scrapbox.io/sta/Scrapboxはな、毒なんだよ)
